@@ -70,3 +70,4 @@ yarn-error.log
 
 # Local Netlify folder
 .netlify
+.vscode/snipsnap.code-snippets
