@@ -1,0 +1,17 @@
+{
+  "CA": {
+    "isoCode": "CA",
+    "name": "Canada",
+    "currency": "CAD"
+  },
+  "US": {
+    "isoCode": "US",
+    "name": "United States",
+    "currency": "USD"
+  },
+  "AU": {
+    "isoCode": "AU",
+    "name": "Australia",
+    "currency": "AUD"
+  }
+}
